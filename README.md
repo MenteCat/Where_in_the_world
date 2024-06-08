@@ -54,7 +54,7 @@ The application will be available at http://localhost
 This project was developed in collaboration with:
 - https://github.com/Sharoness
 - https://github.com/Ggigatron
-Inspired by: https://github.com/devdanix
+- 👨‍🏫 Inspired by: https://github.com/devdanix
 
 ## Contributing
 Contributions are welcome, this app still needs some tweaks! Please fork the repository and submit a pull request.
