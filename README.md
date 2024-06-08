@@ -22,13 +22,13 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    
-   git clone https://github.com/MenteCat/Where_in_the_world.git
-   cd Where_in_the_world
+   `git clone https://github.com/MenteCat/Where_in_the_world.git`
+   `cd Where_in_the_world`
    
-2. Install dependencies:
+3. Install dependencies:
    `npm install`
    
-3. Start the development server:
+4. Start the development server:
    `npm run dev`
 
 The application will be available at http://localhost
@@ -52,6 +52,8 @@ The application will be available at http://localhost
 ## Contributors
 
 This project was developed in collaboration with:
+- https://github.com/Sharoness
+- 
 
 ## Contributing
 Contributions are welcome, this app still needs some tweaks! Please fork the repository and submit a pull request.
